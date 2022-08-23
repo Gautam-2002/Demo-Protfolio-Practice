@@ -131,6 +131,9 @@ nav a:hover{
     display: flex;
     flex-direction: row;
 }
+.fa:hover{
+    cursor: pointer;
+}
 .fa{
     padding: 15px;
 }
